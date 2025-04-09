@@ -1,0 +1,1 @@
+# Solidity-Template-Generator-2025
